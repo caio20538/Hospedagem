@@ -1,0 +1,14 @@
+C:\Users\batista\Documents\dotnet\Hospedagem\bin\Debug\net9.0\Hospedagem.exe
+C:\Users\batista\Documents\dotnet\Hospedagem\bin\Debug\net9.0\Hospedagem.deps.json
+C:\Users\batista\Documents\dotnet\Hospedagem\bin\Debug\net9.0\Hospedagem.runtimeconfig.json
+C:\Users\batista\Documents\dotnet\Hospedagem\bin\Debug\net9.0\Hospedagem.dll
+C:\Users\batista\Documents\dotnet\Hospedagem\bin\Debug\net9.0\Hospedagem.pdb
+C:\Users\batista\Documents\dotnet\Hospedagem\obj\Debug\net9.0\Hospedagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\batista\Documents\dotnet\Hospedagem\obj\Debug\net9.0\Hospedagem.AssemblyInfoInputs.cache
+C:\Users\batista\Documents\dotnet\Hospedagem\obj\Debug\net9.0\Hospedagem.AssemblyInfo.cs
+C:\Users\batista\Documents\dotnet\Hospedagem\obj\Debug\net9.0\Hospedagem.csproj.CoreCompileInputs.cache
+C:\Users\batista\Documents\dotnet\Hospedagem\obj\Debug\net9.0\Hospedagem.dll
+C:\Users\batista\Documents\dotnet\Hospedagem\obj\Debug\net9.0\refint\Hospedagem.dll
+C:\Users\batista\Documents\dotnet\Hospedagem\obj\Debug\net9.0\Hospedagem.pdb
+C:\Users\batista\Documents\dotnet\Hospedagem\obj\Debug\net9.0\Hospedagem.genruntimeconfig.cache
+C:\Users\batista\Documents\dotnet\Hospedagem\obj\Debug\net9.0\ref\Hospedagem.dll
